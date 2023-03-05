@@ -1,5 +1,3 @@
-
-from curses import KEY_MOUSE
 import pyxel
 from random import randint
 import time
